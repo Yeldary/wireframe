@@ -1,0 +1,63 @@
+*{
+	margin: 0%;
+	padding: 0%;
+	background: #b8c6df;
+background: -moz-linear-gradient(left,  #b8c6df 0%, #6d88b7 100%);
+background: -webkit-linear-gradient(left,  #b8c6df 0%,#6d88b7 100%);
+background: linear-gradient(to right,  #b8c6df 0%,#6d88b7 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8c6df', endColorstr='#6d88b7',GradientType=1 );
+
+}
+#caja1,footer{
+	width: 95%;
+	height: 80px;
+	outline: groove;
+	color: black;
+	margin:1% 2% 1% 2%;
+}
+#caja2{
+	width:95%;
+	height: 300px;
+	margin-left:2%;
+}
+#caja3{
+	width:95%;
+	height: 300px;
+	outline:groove;
+	color: black;
+	margin:1% 2% 1% 2%;
+}
+section{
+	width: 40%;
+	height: 300px;
+	outline:groove;
+	float: left;
+} 
+#cajaderecha1{
+	width: 57%;
+	height: 50px;
+	outline:groove;
+	float: right;
+	margin: 1%;
+} 
+#cajaderecha2{
+	width: 57%;
+	height: 50px;
+	outline:groove;
+	float: right;
+	margin: 1%;
+} 
+#cajaderecha3{
+	width: 57%;
+	height: 50px;
+	outline:groove;
+	float: right;
+	margin: 1%;
+} 
+#cajaderecha4{
+	width: 57%;
+	height: 50px;
+	outline:groove;
+	float: right;
+	margin: 1%;
+} 
